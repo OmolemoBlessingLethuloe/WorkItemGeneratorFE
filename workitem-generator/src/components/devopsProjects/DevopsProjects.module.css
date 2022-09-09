@@ -1,0 +1,8 @@
+.devopsCard {
+    padding: 32px 32px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
+    margin-bottom: 32px;
+    background-color: white;
+    width: 1000px;
+}

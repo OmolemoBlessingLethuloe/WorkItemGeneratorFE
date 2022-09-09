@@ -1,0 +1,25 @@
+const baseTables = [
+    {'Views': 'All Views'},
+    {'Releases': 'All Releases'},
+    {'Modules': 'All Modules'},
+    {'View Reqs': 'All View Requirements'},
+    {'Roles': 'All Roles'},
+    {'Menu': 'Menu Structure'},
+    // {'Services':'All: Services'},
+    {'APIs':'All APIs by Module'},
+    // {'Background Jobs': 'All Background Jobs'},
+    {'Entities':'All: Entities and DTOs'},
+    // {'Properties': 'Entity Properties'},
+    {'RefLists':'All (BA)'},
+    // {'RefListItems':'Grid view'},
+    // {'Notifications':'All Notification Templates'},
+    // {'Config':'All Config Settings'},
+    // {'Reports':'All Reports'},
+    {'Other Reqs':'All Other Requirements'},
+    // {'Projects':'Grid view'},
+    // {'PermissionCheckers':'Grid view'},
+    // {'Entity Filters':'Grid view'},
+    // {'Permissions':'Grid view'},
+]
+
+module.exports = baseTables;

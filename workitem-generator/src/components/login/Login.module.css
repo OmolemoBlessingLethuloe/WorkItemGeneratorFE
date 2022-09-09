@@ -1,0 +1,32 @@
+.LoginTitle {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+
+.signInBtnContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signInBtn {
+    margin-top: 10px;
+    background-color: darkorange !important;
+    border-color: darkorange !important;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerLogo {
+    pointer-events: none;
+}

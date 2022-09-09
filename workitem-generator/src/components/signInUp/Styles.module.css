@@ -1,0 +1,9 @@
+.imgContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.headerLogo {
+    pointer-events: none;
+}
